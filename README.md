@@ -18,6 +18,7 @@ This project analyzes customer purchasing patterns and behavior using transactio
 # Results
 - Improved understanding of customer behavior
 - Actionable recommendations for targeted marketing and retention strategies
+ 
 
 
 
